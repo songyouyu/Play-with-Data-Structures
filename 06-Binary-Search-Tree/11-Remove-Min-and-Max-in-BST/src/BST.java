@@ -237,7 +237,7 @@ public class BST<E extends Comparable<E>> {
     }
 
     /**
-     * 从二分搜索树中删除最大值所在的节点, 返回最小值
+     * 从二分搜索树中删除最大值所在的节点, 返回最大值
      * @return
      */
     public E removeMax() {
